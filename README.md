@@ -47,5 +47,8 @@ Hey, I am pursuing Computer Science and Engineering with specialization in Cyber
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshatsoni64&show_icons=true&hide_border=true&icon_color=5CFF33">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsoni64&hide_border=true&hide=javascript,html">
 </div>
-<!-- **Views:**<br>
-![Visitor Count](https://profile-counter.glitch.me/akshatsoni64/count.svg) -->
+**Views:**<br>
+![Visitor Count](https://profile-counter.glitch.me/akshatsoni64/count.svg)
+<br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/akshat_soni64?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%akshat_soni64&screen_name=j1t35h)
+
