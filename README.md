@@ -36,14 +36,16 @@ Hey, I am pursuing Computer Science and Engineering with specialization in Cyber
 <!--
 **akshatsoni64/akshatsoni64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<!--
 <a href="https://imgur.com/ilzOXDw"><img align="right" src="https://i.imgur.com/ilzOXDw.gif" title="source: imgur.com" /></a>
+-->
 *******
 - 💬 Ready to help!🤩
 - 📫 Reach Me On: https://instagram.com/akshatsoni64🏁!
 
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=keshakaneria&show_icons=true&hide_border=true&icon_color=5CFF33">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshakaneria&hide_border=true&hide=javascript,html">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=akshatsoni64&show_icons=true&hide_border=true&icon_color=5CFF33">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsoni64&hide_border=true&hide=javascript,html">
 </div>
 <!-- **Views:**<br>
 ![Visitor Count](https://profile-counter.glitch.me/akshatsoni64/count.svg) -->
