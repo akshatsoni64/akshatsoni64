@@ -46,7 +46,7 @@ Hey, I am pursuing Computer Science and Engineering with specialization in Cyber
 -->
 *******
 - 💬 Ready to help!🤩
-- 📫 Reach Me On: <img src="https://img.shields.io/badge/akshatsoni64%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+- 📫 Reach Me On: <img src="https://img.shields.io/badge/akshatsoni64%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>(https://instagram.com/akshatsoni64)
  🏁!
 
 <div>
