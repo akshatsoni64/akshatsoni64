@@ -5,7 +5,7 @@
 
 ### A Warm Welcome by [Akshat Soni](https://about.me/akshatsoni64)👋
 
-Hey, I am pursuing Computer Science and Engineering with specialization in Cyber Security from 🚀Raksha Shakti University, Gandhinagar, Gujarat. I'm a Web🕸 developer working with Python, [Django](https://www.djangoproject.com/), [Laravel](https://www.laravel.com/), RestAPIs and Database connectivities; along with HTML, CSS, Bootstrap, jQuery for frontend portion. I'm currently learning Web Application Penetration Testing☠
+Hey, I am pursuing Computer Science and Engineering with specialization in Cyber Security from 🚀Raksha Shakti University, Gandhinagar, Gujarat. I'm a Web developer working with [Python](https://www.python.org/), [Django](https://www.djangoproject.com/), [Laravel](https://www.laravel.com/), RestAPIs and Database connectivities; along with HTML, CSS, Bootstrap, jQuery for frontend portion. I'm currently learning Web Application Penetration Testing☠
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
