@@ -1,9 +1,9 @@
 
-[![Website](https://img.shields.io/website?label=jitesh.tech&style=for-the-badge&url=https%3A%2F%2Fjitesh.tech)](https://jitesh.tech)
-[![Twitter Follow](https://img.shields.io/twitter/follow/j1t35h?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fj1t3sh&screen_name=j1t35h)
+[![Website](https://img.shields.io/website?label=about.me/akshatsoni64&style=for-the-badge&url=https%3A%2F%2Fabout.me/akshatsoni64)](https://about.me/akshatsoni64)
+[![Twitter Follow](https://img.shields.io/twitter/follow/akshat_soni64?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fj1t3sh&screen_name=akshat_soni64)
 
 
-### A Warm Welcome by [Akshat Soni](https://about.me/akshatoni64)👋
+### A Warm Welcome by [Akshat Soni](https://about.me/akshatsoni64)👋
 
 Hey, I am pursuing Computer Science and Engineering with specialization in Cyber Security from 🚀Raksha Shakti University, Gandhinagar, Gujarat. I'm a Web🕸 developer working with Python, [Django](https://www.djangoproject.com/), [Laravel](https://www.laravel.com/), RestAPIs and Database connectivities; along with HTML, CSS, Bootstrap, jQuery for frontend portion. I'm currently learning Web Application Penetration Testing☠
 
@@ -52,8 +52,3 @@ Hey, I am pursuing Computer Science and Engineering with specialization in Cyber
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshatsoni64&show_icons=true&hide_border=true&icon_color=5CFF33">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsoni64&hide_border=true&hide=javascript,html">
 </div>
-**Views:**<br>
-![Visitor Count](https://profile-counter.glitch.me/akshatsoni64/count.svg)
-<br>
-![Twitter Follow](https://img.shields.io/twitter/follow/akshat_soni64?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%akshat_soni64&screen_name=akshat_soni64)
-
