@@ -48,10 +48,9 @@ Hey, I am pursuing Computer Science and Engineering with specialization in Cyber
 💬 Ready to help!🤩
 📫 Reach Me On: 
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatsoni64)
+[![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshatsoni64)
 [![Instagram](https://img.shields.io/badge/akshatsoni64%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akshatsoni64)
 [![Twitter](https://img.shields.io/badge/akshat_soni64%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/akshat_soni64)
-
-
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshatsoni64&show_icons=true&hide_border=true&icon_color=5CFF33">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsoni64&hide_border=true&hide=javascript,html">
