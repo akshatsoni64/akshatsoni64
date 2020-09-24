@@ -1,4 +1,4 @@
-<script src="https://tryhackme.com/badge/56988"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/akshatsoni64.png" alt="TryHackMe">
 
 ### A Warm Welcome by [Akshat Soni](https://about.me/akshatoni64)👋
 
