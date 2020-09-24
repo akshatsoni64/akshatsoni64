@@ -1,3 +1,5 @@
+<script src="https://tryhackme.com/badge/56988"></script>
+
 ### A Warm Welcome by [Akshat Soni](https://about.me/akshatoni64)👋
 
 Hey, I am pursuing Computer Science and Engineering with specialization in Cyber Security from 🚀Raksha Shakti University, Gandhinagar, Gujarat. I'm a Web🕸 developer working with Python, [Django](https://www.djangoproject.com/), [Laravel](https://www.laravel.com/), RestAPIs and Database connectivities; along with HTML, CSS, Bootstrap, jQuery for frontend portion. I'm currently learning Web Application Penetration Testing☠
