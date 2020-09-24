@@ -5,7 +5,8 @@
 
 ### Welcome to [Akshat Soni's](https://about.me/akshatsoni64) Github Profile👋
 
-Hey, I m Final Year B. Tech. Student from 🚀Raksha Shakti University, Gandhinagar, Gujarat. Love to work with [Python](https://www.python.org/), [Django](https://www.djangoproject.com/), [Laravel](https://www.laravel.com/), RestAPIs and Database connectivities; I am very much interested in Website Development & Security
+- Hey, I m Final Year B. Tech. Student from **Raksha Shakti University, Gandhinagar, Gujarat**. Love to work with [**Python**](https://www.python.org/), [**Django**](https://www.djangoproject.com/), [**Laravel**](https://www.laravel.com/), etc.
+- I am very much interested in Website Development & Security.
 
 *******
 💬 Always Open to help! Reach Out to me: 
