@@ -1,3 +1,8 @@
+
+[![Website](https://img.shields.io/website?label=jitesh.tech&style=for-the-badge&url=https%3A%2F%2Fjitesh.tech)](https://jitesh.tech)
+[![Twitter Follow](https://img.shields.io/twitter/follow/j1t35h?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fj1t3sh&screen_name=j1t35h)
+
+
 ### A Warm Welcome by [Akshat Soni](https://about.me/akshatoni64)👋
 
 Hey, I am pursuing Computer Science and Engineering with specialization in Cyber Security from 🚀Raksha Shakti University, Gandhinagar, Gujarat. I'm a Web🕸 developer working with Python, [Django](https://www.djangoproject.com/), [Laravel](https://www.laravel.com/), RestAPIs and Database connectivities; along with HTML, CSS, Bootstrap, jQuery for frontend portion. I'm currently learning Web Application Penetration Testing☠
