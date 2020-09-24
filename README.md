@@ -3,9 +3,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/akshat_soni64?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fakshatsoni64&screen_name=akshat_soni64)
 
 
-### A Warm Welcome by [Akshat Soni](https://about.me/akshatsoni64)👋
+### Welcome to [Akshat Soni's](https://about.me/akshatsoni64) Github Profile👋
 
-Hey, I am pursuing Computer Science and Engineering with specialization in Cyber Security from 🚀Raksha Shakti University, Gandhinagar, Gujarat. I'm a Web developer working with [Python](https://www.python.org/), [Django](https://www.djangoproject.com/), [Laravel](https://www.laravel.com/), RestAPIs and Database connectivities; along with HTML, CSS, Bootstrap, jQuery for frontend portion. I'm currently learning Web Application Penetration Testing☠
+Hey, I m Final Year B. Tech. Student from 🚀Raksha Shakti University, Gandhinagar, Gujarat. Love to work with [Python](https://www.python.org/), [Django](https://www.djangoproject.com/), [Laravel](https://www.laravel.com/), RestAPIs and Database connectivities; I am very much interested in Website Development & Security
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
