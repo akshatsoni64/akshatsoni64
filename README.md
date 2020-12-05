@@ -9,6 +9,7 @@
 
 *******
 💬 Always Open to help! Reach Out to me: 
+<br>
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatsoni64)
 [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshatsoni64)
 [![Instagram](https://img.shields.io/badge/akshatsoni64%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akshatsoni64)
