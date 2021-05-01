@@ -19,9 +19,6 @@
 [![Twitter](https://img.shields.io/badge/akshat_soni64%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/akshat_soni64)
 <div>
   
-![jpoehnelt's github stats](https://github-readme-stats.vercel.app/api?username=akshatsoni64&show_icons=true&&theme=nord&hide_border=true&count_private=true&hide=issues&custom_title=Github%20Stats)
-
-![jpoehnelt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akshatsoni64&layout=compact&theme=nord&hide_border=true&custom_title=Other%20Stats)
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshatsoni64&show_icons=true&hide_border=true&icon_color=5CFF33">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsoni64&hide_border=true&hide=javascript,html"> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=akshatsoni64&show_icons=true&hide_border=true&icon_color=5CFF33&theme=dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsoni64&theme=dark&hide_border=true&hide=javascript,html">
 </div>
