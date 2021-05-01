@@ -20,5 +20,5 @@
 <div>
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshatsoni64&show_icons=true&hide_border=true&icon_color=5CFF33&theme=dark">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsoni64&theme=dark&hide_border=true&hide=javascript,html">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsoni64&theme=dark&hide_border=true">
 </div>
