@@ -13,10 +13,11 @@
 *******
 💬 Always Open to help! Reach Out to me: 
 <br>
-[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatsoni64)
-[![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshatsoni64)
-[![Instagram](https://img.shields.io/badge/akshatsoni64%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akshatsoni64)
-[![Twitter](https://img.shields.io/badge/akshat_soni64%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/akshat_soni64)
+[![LINKEDIN](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatsoni64)
+[![GITHUB](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshatsoni64)
+[![INSTAGRAM](https://img.shields.io/badge/akshatsoni64%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akshatsoni64)
+[![TWITTER](https://img.shields.io/badge/akshat_soni64%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/akshat_soni64)
+[![MEDIUM](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://jpoehnelt.medium.com/)
 <div>
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshatsoni64&show_icons=true&hide_border=true&icon_color=5CFF33&theme=dark">
