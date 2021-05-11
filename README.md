@@ -1,7 +1,6 @@
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/akshat_soni64?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fakshatsoni64&screen_name=akshat_soni64)
-<a href="#"><img src="https://badges.pufler.dev/years/akshatsoni64"></a>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/akshatsoni64?style=social">
+<!-- <a href="#"><img src="https://badges.pufler.dev/years/akshatsoni64"></a> -->
+<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/akshatsoni64?style=social"> -->
 
 
 
