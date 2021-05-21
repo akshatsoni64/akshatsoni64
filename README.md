@@ -6,6 +6,7 @@
 
 ### Welcome to [Akshat Soni's](https://about.me/akshatsoni64) Github Profile👋
 <img src="https://komarev.com/ghpvc/?username=akshatsoni64&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="akshatsoni64" />
+
 - Hey, I m Final Year B. Tech. Student from **Rashtriya Raksha University, Gandhinagar, Gujarat**. Love to work with [**Python**](https://www.python.org/), [**Django**](https://www.djangoproject.com/), [**Laravel**](https://www.laravel.com/), etc.
 - I am very much interested in Python Development & Website Development.
 
