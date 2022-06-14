@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=akshatsoni64&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="akshatsoni64" />
 
 - Hey there!
-- Working as Trainee Software Engineer @[**GlobalLogic**](https://www.globallogic.com/)
+- Working as an Associate Software Engineer @[**GlobalLogic**](https://www.globallogic.com/)
 - Computer Science Graduate from **Rashtriya Raksha University, Gandhinagar, Gujarat** (Class of 2021). 
 - Love to work with [**Python**](https://www.python.org/), [**Django**](https://www.djangoproject.com/), [**NodeJS**](https://nodejs.org/), etc.
 - I am very much interested in Web Development & Cloud Computing.
